@@ -24,7 +24,7 @@ description              : "따노니의 Github 블로그입니다."
 url                      : "https://ddanoni.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/ddanoni/ddanoni.github.io"
-teaser                   : "/assets/images/sad_racoon01.jpg"
+teaser                   : # "/assets/images/sad_racoon01.jpg"
 logo                     : "/assets/images/racoon02.png"
 masthead_title           : "기록하는 라쿤"
 breadcrumbs              : true # true, false (default)
