@@ -8,14 +8,14 @@ main:
     url: /search/
 
 docs:
-  - title: "SubCategory 1"
+  - title: "Sub_Category 1"
     children:
       - title: "Category"
         url: /categories/
       - title: "Tag"
         url: /tags/
 
-  - title: "SubCategory 2"
+  - title: "Sub_Category 2"
     children:
       - title: "Category"
         url: /categories/
