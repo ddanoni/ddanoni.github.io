@@ -20,7 +20,7 @@ title                    : "따노닝's devnote"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
-description              : "An amazing website."
+description              : "This is 따노닝's website."
 url                      : "https://ddanoni.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
