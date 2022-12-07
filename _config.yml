@@ -12,21 +12,21 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
 title                    : "따노닝's devnote"
 title_separator          : "-"
-subtitle                 : "안녕하세요."
+subtitle                 : # "안녕하세요."
 name                     : "ddanoni"
 description              : "This is 따노닝's website."
 url                      : "https://ddanoni.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/ddanoni/ddanoni.github.io"
 teaser                   : "/assets/images/sad_racoon01.jpg"
-logo                     : "/assets/images/racoon01.jpg"
-masthead_title           : "어제보다 나은 오늘을 위해서!"
+logo                     : "/assets/images/devicon01.png"
+masthead_title           : "기록하는 라쿤"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
